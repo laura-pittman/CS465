@@ -1,7 +1,7 @@
 # CS465
 
 Architecture
-Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
+
 The Angular project structure is vastly different from that of the Express HTML customer-facing page with the main difference being the functionality that each piece provides to the application as the Express HTML is used for more of the backend side of the application while the Angular project structure is used for the front-end, user-facing part of the application. Additionally, the Angular project structure is primarily component based with each component having a separate folder whereas the Express HTML structure follows a server-side MVC pattern with separate HTML files that follow routes and controllers. The backend of the project used a NoSQL MongoDB database because of how simple and easy it was to change the functionality, scaling, and overall view of the app.
 
 Functionality
